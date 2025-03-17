@@ -1,0 +1,4 @@
+Mayank,Pal,123 Street,New York,NY,10001,987654321,mayank@example.com
+Vibhor,Gupta,456 Road,Los Angeles,CA,90001,987654322,vibhor@example.com
+Kanika,Agarwal,789 Street,Chicago,IL,60601,987654323,kanika@example.com
+Arnav,Saharan,101 Ny,New York,NY,10002,987654324,arnav@example.com
