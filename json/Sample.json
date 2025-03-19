@@ -1,0 +1,42 @@
+[
+  {
+    "firstName": "Mayank",
+    "lastName": "Pal",
+    "address": "123 Street",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10001",
+    "phoneNumber": "987654321",
+    "email": "mayank@example.com"
+  },
+  {
+    "firstName": "Vibhor",
+    "lastName": "Gupta",
+    "address": "456 Road",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zipCode": "90001",
+    "phoneNumber": "987654322",
+    "email": "vibhor@example.com"
+  },
+  {
+    "firstName": "Kanika",
+    "lastName": "Agarwal",
+    "address": "789 Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601",
+    "phoneNumber": "987654323",
+    "email": "kanika@example.com"
+  },
+  {
+    "firstName": "Arnav",
+    "lastName": "Saharan",
+    "address": "101 Ny",
+    "city": "New York",
+    "state": "NY",
+    "zipCode": "10002",
+    "phoneNumber": "987654324",
+    "email": "arnav@example.com"
+  }
+]
